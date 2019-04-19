@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Kasikorn.png</file>
+        <file>KrungThai.jpg</file>
+        <file>krungthepbank.jpg</file>
+        <file>krungsri.jpg</file>
+        <file>scb.jpeg</file>
+        <file>govsavbank.jpg</file>
+        <file>Thanachart.jpg</file>
+        <file>tmb.png</file>
+        <file>mainbg.png</file>
+        <file>kks.png</file>
+        <file>minibg.jpg</file>
+        <file>data.txt</file>
+    </qresource>
+</RCC>
